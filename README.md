@@ -1,9 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysak-y&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Usually use TypeScript. Recently learning Rust and Swift.
 
-I've never used Java for building applications. 
-I guess following result is because of my Flutter package [flutter_audio_capture](https://github.com/ysak-y/flutter_audio_capture).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysak-y)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
