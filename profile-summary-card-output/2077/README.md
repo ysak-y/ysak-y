@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ysak-y/ysak-y/main/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
